@@ -3,7 +3,7 @@
 A REST API that classifies the likely gender of a name using the Genderize.io API.
 
 ## Live URL
-https://your-railway-url.up.railway.app
+https://gender-classifier-omega.vercel.app
 
 ## Endpoint
 
